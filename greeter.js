@@ -9,4 +9,5 @@ function speak(food, energy) {
     console.log("Our " + food + " has " + energy + " calories.");
 }
 speak(burger, calories);
+console.log("ssssss");
 //# sourceMappingURL=greeter.js.map
