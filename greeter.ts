@@ -14,3 +14,5 @@ function speak(food: string, energy: number): void {
 
 speak(burger, calories);
 console.log("ssssss");
+console.log("mmmmmm");
+console.log("kkkkkkk");
